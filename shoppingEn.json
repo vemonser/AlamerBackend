@@ -5,13 +5,11 @@
 
   "bgImage": "",
 
-  "bgTitle": "التسوق",
-
-  "bgDescription": "تجربة تسوق فريدة تحت سقف واحد",
-
   "data": [
     {
       "id": 1,
+      "bgTitle": "Shopping",
+      "bgDescription": "A unique shopping experience in one place.",
       "bgImg": "https://github.com/vemonser/photos/blob/main/departmentbg-min.jpg?raw=true",
       "name": "Women/Men's Fashion",
       "desc": "Al-Amer Mall contains stores that sell the finest brands and the latest collections of various modern and classic designs suitable for both genders and meet the needs of everyone.",
@@ -42,10 +40,10 @@
         }
       ]
     },
-
     {
       "id": 2,
-
+      "bgTitle": "Shopping",
+      "bgDescription": "A unique shopping experience in one place.",
       "bgImg": "https://github.com/vemonser/photos/blob/main/departmentbg-min.jpg?raw=true",
       "name": "Kids - Pregnant Ladies Fashion",
       "desc": "From maternity clothes to trendy boys' clothes, you will find everything you are looking for in mothers' and Kids' stores. Al-Amer Mall provides you with everything you need for your newborn, suitable for both genders.",
@@ -76,9 +74,10 @@
         }
       ]
     },
-
     {
       "id": 3,
+      "bgTitle": "Shopping",
+      "bgDescription": "A unique shopping experience in one place.",
       "bgImg": "https://github.com/vemonser/photos/blob/main/departmentbg-min.jpg?raw=true",
       "name": "Electronics - Telephones - Household Appliances - home decorations ",
       "desc": "Al-Amer Mall provides you with many stores specializing in electronic devices, mobile phones and household item to meet everyone's needs.",
@@ -109,9 +108,10 @@
         }
       ]
     },
-
     {
       "id": 4,
+      "bgTitle": "Shopping",
+      "bgDescription": "A unique shopping experience in one place.",
       "bgImg": "https://github.com/vemonser/photos/blob/main/departmentbg-min.jpg?raw=true",
       "name": "Optics - Sunglasses",
       "desc": "Al-Amer Mall contains a wide range of eyeglasses and lenses stores.",
@@ -142,9 +142,10 @@
         }
       ]
     },
-
     {
       "id": 5,
+      "bgTitle": "Shopping",
+      "bgDescription": "A unique shopping experience in one place.",
       "bgImg": "https://github.com/vemonser/photos/blob/main/departmentbg-min.jpg?raw=true",
       "name": "Accessories - bags - shoes",
       "desc": "Al-Amer Mall offers a wide variety of bags and shoes stores from the latest launches of the season.",
@@ -175,9 +176,10 @@
         }
       ]
     },
-
     {
       "id": 6,
+      "bgTitle": "Shopping",
+      "bgDescription": "A unique shopping experience in one place.",
       "bgImg": "https://github.com/vemonser/photos/blob/main/departmentbg-min.jpg?raw=true",
       "name": "Watches - Jewelry",
       "desc": "Al-Amer Mall offers an impressive collection of watches and jewelry stores to suit all tastes and budgets.",
@@ -208,10 +210,10 @@
         }
       ]
     },
-
     {
       "id": 7,
-
+      "bgTitle": "Shopping",
+      "bgDescription": "A unique shopping experience in one place.",
       "bgImg": "https://github.com/vemonser/photos/blob/main/departmentbg-min.jpg?raw=true",
       "name": "Sports and Entertainment",
       "desc": "Al-Amer Mall contains a wide variety of major sports stores.",
@@ -242,9 +244,10 @@
         }
       ]
     },
-
     {
       "id": 8,
+      "bgTitle": "Shopping",
+      "bgDescription": "A unique shopping experience in one place.",
       "bgImg": "https://github.com/vemonser/photos/blob/main/departmentbg-min.jpg?raw=true",
       "name": "Pharmacies - Cosmetics - Perfumes - Beauties ",
       "desc": "Al-Amer Mall provides you with a lot of options from skin care products to cosmetics, and perfumes. You will find in the mall what satisfies your taste and gives you the perfect look.",
@@ -278,6 +281,8 @@
 
     {
       "id": 9,
+      "bgTitle": "Shopping",
+      "bgDescription": "A unique shopping experience in one place.",
       "name": "Games - gifts - stationery - books",
       "desc": "Al-Amer Mall contains a wide range of stores specialized in Kids' toys and other gifts to suit all your occasions.",
       "img": "https://github.com/vemonser/photos/blob/main/pexels-said-10918358.jpg?raw=true",
@@ -309,6 +314,8 @@
     },
     {
       "id": 10,
+      "bgTitle": "Shopping",
+      "bgDescription": "A unique shopping experience in one place.",
       "name": "Services - specialty stores",
       "desc": "Al-Amer Mall provides the best interface in Al-hasa for shopping and entertainment, but it also contains a wide variety of specialized stores that provide various services such as branches of telecommunications companies, where you can buy a new phone line or pay bills while touring the mall.",
       "img": "https://github.com/vemonser/photos/blob/main/entertainment.jpg?raw=true",
@@ -341,6 +348,8 @@
 
     {
       "id": 11,
+      "bgTitle": "Restaurants",
+      "bgDescription": "Al-Amer Mall offers a great selection of restaurants that offer what suits all tastes, from contemporary Arabic dishes and many more to live a delicious tasting experience.",
       "bgImg": "https://github.com/vemonser/photos/blob/main/%D8%A7%D9%84%D9%85%D8%B7%D8%A7%D8%B9%D9%85-min.jpg?raw=true",
       "name": "Restaurants",
       "desc": "",
@@ -374,7 +383,8 @@
 
     {
       "id": 12,
-
+      "bgTitle": "Restaurants",
+      "bgDescription": "Al-Amer Mall offers a great selection of restaurants that offer what suits all tastes, from contemporary Arabic dishes and many more to live a delicious tasting experience.",
       "bgImg": "https://github.com/vemonser/photos/blob/main/%D8%A7%D9%84%D9%85%D8%B7%D8%A7%D8%B9%D9%85-min.jpg?raw=true",
       "name": "Cafes",
       "desc": "",
@@ -408,7 +418,8 @@
 
     {
       "id": 13,
-
+      "bgTitle": "Restaurants",
+      "bgDescription": "Al-Amer Mall offers a great selection of restaurants that offer what suits all tastes, from contemporary Arabic dishes and many more to live a delicious tasting experience.",
       "bgImg": "https://github.com/vemonser/photos/blob/main/%D8%A7%D9%84%D9%85%D8%B7%D8%A7%D8%B9%D9%85-min.jpg?raw=true",
       "name": "Fast Food Stores",
       "desc": "",
@@ -442,7 +453,8 @@
 
     {
       "id": 14,
-
+      "bgTitle": "Restaurants",
+      "bgDescription": "Al-Amer Mall offers a great selection of restaurants that offer what suits all tastes, from contemporary Arabic dishes and many more to live a delicious tasting experience.",
       "bgImg": "https://github.com/vemonser/photos/blob/main/%D8%A7%D9%84%D9%85%D8%B7%D8%A7%D8%B9%D9%85-min.jpg?raw=true",
       "name": "Healthy Food Stores",
       "desc": "",
@@ -476,7 +488,8 @@
 
     {
       "id": 15,
-
+      "bgTitle": "Restaurants",
+      "bgDescription": "Al-Amer Mall offers a great selection of restaurants that offer what suits all tastes, from contemporary Arabic dishes and many more to live a delicious tasting experience.",
       "bgImg": "https://github.com/vemonser/photos/blob/main/%D8%A7%D9%84%D9%85%D8%B7%D8%A7%D8%B9%D9%85-min.jpg?raw=true",
       "name": "Specialty Restaurants - Dessert",
       "desc": "",
@@ -510,7 +523,8 @@
 
     {
       "id": 16,
-
+      "bgTitle": "Restaurants",
+      "bgDescription": "Al-Amer Mall offers a great selection of restaurants that offer what suits all tastes, from contemporary Arabic dishes and many more to live a delicious tasting experience.",
       "bgImg": "https://github.com/vemonser/photos/blob/main/%D8%A7%D9%84%D9%85%D8%B7%D8%A7%D8%B9%D9%85-min.jpg?raw=true",
       "name": "Outdoor Sessions",
       "desc": "",
@@ -544,8 +558,9 @@
     {
       "id": 17,
 
+      "bgTitle": "Entertainment",
+      "bgDescription": "Entertainment and games",
       "bgImg": "https://github.com/vemonser/photos/blob/main/pexels-nothing-ahead-7451930.webp?raw=true",
-
       "name": "Entertainment and games",
       "desc": "",
       "img": "https://github.com/vemonser/photos/blob/main/pexels-nothing-ahead-7451930.webp?raw=true",
@@ -577,6 +592,8 @@
     },
     {
       "id": 18,
+      "bgTitle": "Entertainment",
+      "bgDescription": "Entertainment and games",
       "bgImg": "https://github.com/vemonser/photos/blob/main/pexels-nothing-ahead-7451930.webp?raw=true",
       "name": "Cinema",
       "desc": "",
@@ -609,6 +626,8 @@
     },
     {
       "id": 19,
+      "bgTitle": "Al-Amer hypermarket",
+      "bgDescription": "Al-Amer hypermarket combines a wide variety of products and items (more than 60,000 different items) of fresh products, other consumer items and household appliances, in addition to items imported from all over the world (Asia, Africa, Europe, North and South America) that meet the various requirements of the customers. Whereas our Slogan is \"Top savings\", our goal is to continue providing the best quality of services to our customers at the lowest prices.",
       "bgImg": "https://github.com/vemonser/photos/blob/main/00000003-min.jpg?raw=true",
       "name": "Hypermarket",
       "desc": "Al-Amer hypermarket combines a wide variety of products and items (more than 60,000 different items) of fresh products, other consumer items and household appliances, in addition to items imported from all over the world (Asia, Africa, Europe, North and South America) that meet the various requirements of the customers. Whereas our Slogan is \"Top savings\", our goal is to continue providing the best quality of services to our customers at the lowest prices.",
