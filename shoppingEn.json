@@ -282,6 +282,7 @@
     {
       "id": 9,
       "bgTitle": "Shopping",
+      "bgImg": "https://github.com/vemonser/photos/blob/main/departmentbg-min.jpg?raw=true",
       "bgDescription": "A unique shopping experience in one place.",
       "name": "Games - gifts - stationery - books",
       "desc": "Al-Amer Mall contains a wide range of stores specialized in Kids' toys and other gifts to suit all your occasions.",
@@ -315,6 +316,7 @@
     {
       "id": 10,
       "bgTitle": "Shopping",
+      "bgImg": "https://github.com/vemonser/photos/blob/main/departmentbg-min.jpg?raw=true",
       "bgDescription": "A unique shopping experience in one place.",
       "name": "Services - specialty stores",
       "desc": "Al-Amer Mall provides the best interface in Al-hasa for shopping and entertainment, but it also contains a wide variety of specialized stores that provide various services such as branches of telecommunications companies, where you can buy a new phone line or pay bills while touring the mall.",
