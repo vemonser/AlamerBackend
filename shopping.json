@@ -522,40 +522,9 @@
         }
       ]
     },
+
     {
       "id": 17,
-      "bgImg": "https://github.com/vemonser/photos/blob/main/departmentbg-min.jpg?raw=true",
-      "img": "https://github.com/vemonser/photos/blob/main/entertainment.jpg?raw=true",
-      "name": "خدمات - متاجر متخصصة",
-      "desc": "يوفّر العامر مول الواجهة الأفضل في الاحساء للتسوّق، والترفيه، ولكنّه يحتوي أيضًا على تشكيلة واسعة من المتاجر المتخصّ صة التي تقدّم مختلف الخدمات كفروع شركات الاتصالات حيث يمكنكم شراء خطّ هاتفي جديد أو دفع الفواتير أثناء تجوّلكم في المول.",
-      "shops": [
-        {
-          "id": 1,
-
-          "name": "Store 5 ",
-
-          "phone": ["01143157486 -", "  203 0112528605"],
-
-          "locationLink": "https://www.google.com/maps/@24.6142194,46.6914836,10z",
-
-          "floor": "L1"
-        },
-
-        {
-          "id": 2,
-
-          "name": "Store 4",
-
-          "phone": ["01143157486 -", " 203 0112528605"],
-
-          "locationLink": "https://www.google.com/maps/@24.6142194,46.6914836,10z",
-
-          "floor": "G8"
-        }
-      ]
-    },
-    {
-      "id": 18,
       "bgImg": "https://github.com/vemonser/photos/blob/main/pexels-nothing-ahead-7451930.webp?raw=true",
       "name": "الترفيه والألعاب",
       "desc": "",
@@ -587,75 +556,43 @@
       ]
     },
     {
+      "id": 18,
+      "bgImg": "https://github.com/vemonser/photos/blob/main/pexels-nothing-ahead-7451930.webp?raw=true",
+      "name": "سينما",
+      "desc": "",
+      "img": "https://github.com/vemonser/photos/blob/main/samuel-regan-asante-Geepgu8bCas-unsplash.jpg?raw=true",
+      "shops": [
+        {
+          "id": 1,
+
+          "name": "Store 5 ",
+
+          "phone": ["01143157486 -", "  203 0112528605"],
+
+          "locationLink": "https://www.google.com/maps/@24.6142194,46.6914836,10z",
+
+          "floor": "L1"
+        },
+
+        {
+          "id": 2,
+
+          "name": "Store 4",
+
+          "phone": ["01143157486 -", " 203 0112528605"],
+
+          "locationLink": "https://www.google.com/maps/@24.6142194,46.6914836,10z",
+
+          "floor": "G8"
+        }
+      ]
+    },
+    {
       "id": 19,
-      "bgImg": "https://github.com/vemonser/photos/blob/main/pexels-nothing-ahead-7451930.webp?raw=true",
-      "name": "سينما",
-      "desc": "",
-      "img": "https://github.com/vemonser/photos/blob/main/samuel-regan-asante-Geepgu8bCas-unsplash.jpg?raw=true",
-      "shops": [
-        {
-          "id": 1,
-
-          "name": "Store 5 ",
-
-          "phone": ["01143157486 -", "  203 0112528605"],
-
-          "locationLink": "https://www.google.com/maps/@24.6142194,46.6914836,10z",
-
-          "floor": "L1"
-        },
-
-        {
-          "id": 2,
-
-          "name": "Store 4",
-
-          "phone": ["01143157486 -", " 203 0112528605"],
-
-          "locationLink": "https://www.google.com/maps/@24.6142194,46.6914836,10z",
-
-          "floor": "G8"
-        }
-      ]
-    },
-    {
-      "id": 20,
-      "bgImg": "https://github.com/vemonser/photos/blob/main/pexels-nothing-ahead-7451930.webp?raw=true",
-      "name": "سينما",
-      "desc": "",
-      "img": "https://github.com/vemonser/photos/blob/main/samuel-regan-asante-Geepgu8bCas-unsplash.jpg?raw=true",
-      "shops": [
-        {
-          "id": 1,
-
-          "name": "Store 5 ",
-
-          "phone": ["01143157486 -", "  203 0112528605"],
-
-          "locationLink": "https://www.google.com/maps/@24.6142194,46.6914836,10z",
-
-          "floor": "L1"
-        },
-
-        {
-          "id": 2,
-
-          "name": "Store 4",
-
-          "phone": ["01143157486 -", " 203 0112528605"],
-
-          "locationLink": "https://www.google.com/maps/@24.6142194,46.6914836,10z",
-
-          "floor": "G8"
-        }
-      ]
-    },
-    {
-      "id": 21,
       "bgImg": "https://github.com/vemonser/photos/blob/main/00000003-min.jpg?raw=true",
       "name": "هايبر ماركت",
       "desc": "أسواق العامر تضم تشكيلة واسعة من المنتجات والأصناف )أكثر من 60.000 صنف مختلف( من المنتجات ال طازجة ، الأصناف الاستهلاكية الأخرى والأدوات المنزلية إضافة للأصناف المستوردة من شتى بقاع العالم ( آسيا ، إفريقيا ، أوروبا ، أمريكا الشمالية والجنوبية ) والتي توفر مختلف متطلبات العملاء . وحيث أن شعارنا هو 'قمة التوفير'، فإن هدفنا هو استمرارنا بتقديم أفضل نوعية من الخدمات لعملائنا وبأقل الأسعار",
-      "img": "https://github.com/vemonser/photos/blob/main/00000003-min.jpg?raw=true",
+      "img": " https://github.com/vemonser/photos/blob/main/00000003-min.jpg?raw=true",
       "shops": [
         {
           "id": 1,
